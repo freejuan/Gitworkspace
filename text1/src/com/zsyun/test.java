@@ -5,6 +5,10 @@ public class test {
 	
 		String aa="bb";
 		System.out.println("版本二"+aa);
+		
+		System.out.println("bbb");
+		
+		System.out.println("ccc");
 	}
 
 }
